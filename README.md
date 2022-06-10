@@ -1,3 +1,9 @@
+This is my personal developer site, talking about me and my coding journey and demonstrating my front-end development skills!
+
+I've used React, react-router-dom 6, and Bulma CSS to create this site.
+
+Standard React Readme follows:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
